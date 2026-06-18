@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397010925516",
+    "project_id": "smart-eyes-f3ae5",
+    "storage_bucket": "smart-eyes-f3ae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397010925516:android:63de2fd668c16d0ade8f69",
+        "android_client_info": {
+          "package_name": "com.example.smarthomeui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1pgeuQ3TOgysbVUzHfQyiJi9qEsqPm0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397010925516:android:d0e78d21d52e58ecde8f69",
+        "android_client_info": {
+          "package_name": "com.oab.smart.eyes.smarteyes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1pgeuQ3TOgysbVUzHfQyiJi9qEsqPm0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
